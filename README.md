@@ -1,5 +1,5 @@
 # Portfolio - Website!
-* Developed a comprehensive website utilizing the React.JS library
+* Developed a comprehensive website utilizing the React.js library
 * Link: https://portfolio-dependra.vercel.app/
 
 
